@@ -37,12 +37,6 @@
             android:action="android.provider.Telephony.ACTION_CHANGE_DEFAULT">
         </intent>
     </PreferenceScreen>
-
-    <SwitchPreference
-        android:key="@string/show_quick_reply_templates_pref_key"
-        android:title="@string/show_quick_reply_templates_title"
-        android:summary="@string/show_quick_reply_templates_summary"
-        android:defaultValue="@bool/show_quick_reply_templates_pref_default" />
         
     <SwitchPreference
         android:key="@string/send_sound_pref_key"
