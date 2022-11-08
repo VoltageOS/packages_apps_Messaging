@@ -90,6 +90,7 @@
     <color name="chips_text_color">@android:color/white</color>
 
     <color name="translucent_white">#80ffffff</color>
+    <color name="google_white">#ffffffff</color>
 
     <color name="gallery_image_default_background">#eeeeee</color>
     <color name="gallery_image_pressed">#6733b5e5</color>
