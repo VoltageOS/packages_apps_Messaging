@@ -21,4 +21,7 @@
 
     <!-- Notification channel -->
     <string name="notification_channel_messages_title">Messages</string>
+
+    <!-- Mark As Read --> 
+    <string name="notification_mark_as_read">Mark as read</string>
 </resources>
